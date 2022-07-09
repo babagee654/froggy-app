@@ -1,0 +1,108 @@
+body {
+    font-family: 'go_frogregular';
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    display:flex; 
+    flex-direction:column; 
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+
+.app-container {
+    background: linear-gradient(180deg, #3B413C 75%, #252525);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
+
+
+.frog-img {
+    width: 300px;
+    border-radius: 10px;
+    align-self: center;
+}
+
+p {
+    font-size: 23px;
+}
+
+a {
+    font-size: 20px
+}
+
+h3 {
+    font-size: 30px;
+}
+
+hr {
+    opacity: 0.5;
+}
+
+
+.frog-container {
+    display: flex;
+    max-width:  80em;
+    background-color: #4ac59e;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.frog-container:hover {
+    cursor: pointer;
+}
+
+.alias {
+    color: #064711;
+}
+
+.frog-info {
+    padding: 0 1em;
+}
+
+.header  {
+    text-align: center;
+}
+
+.footer  {
+    margin-top: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.sub-info {
+    display: flex;
+    font-size: 20px;
+    color: #ffd426;
+}
+
+.lifespan {
+    padding-left: 30px;
+    display: block;
+}
+
+.header {
+    background-color: #ff9226;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+@font-face {
+    font-family: 'go_frogregular';
+    src: url('./fonts/go_frog-webfont.woff2') format('woff2'),
+         url('./fonts/go_frog-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
