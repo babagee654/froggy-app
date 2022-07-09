@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/froggy-app/static/css/main.5749c5f4.css",
+    "main.js": "/froggy-app/static/js/main.7a2fcd56.js",
+    "static/media/dumpy_frog.jpg": "/froggy-app/static/media/dumpy_frog.31f4e048585a07da0ba3.jpg",
+    "static/media/pacman_frog.jpg": "/froggy-app/static/media/pacman_frog.79cbb78a7a9fa376a752.jpg",
+    "static/media/rain_frog.jpg": "/froggy-app/static/media/rain_frog.e499bc48cdfa55f7f2b1.jpg",
+    "static/media/go_frog-webfont.woff": "/froggy-app/static/media/go_frog-webfont.2e7984830a4f6d7234b6.woff",
+    "static/media/go_frog-webfont.woff2": "/froggy-app/static/media/go_frog-webfont.edd912ccd32d3317b4e1.woff2",
+    "index.html": "/froggy-app/index.html",
+    "main.5749c5f4.css.map": "/froggy-app/static/css/main.5749c5f4.css.map",
+    "main.7a2fcd56.js.map": "/froggy-app/static/js/main.7a2fcd56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5749c5f4.css",
+    "static/js/main.7a2fcd56.js"
+  ]
+}
